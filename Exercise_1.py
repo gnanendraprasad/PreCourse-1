@@ -1,3 +1,5 @@
+#Time complexity: push, pop, peek, size - O(1) ; show - O(n)
+#Space complexity: O(n) - size of array or stack.
 class myStack:
   #Please read sample.java file before starting.
   #Kindly include Time and Space complexity at top of each file

@@ -1,3 +1,5 @@
+#Time complexity: push, pop - O(1)
+#Space complexity: O(n)
 
 class Node:
     def __init__(self, data):

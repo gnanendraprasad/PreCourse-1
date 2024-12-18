@@ -1,3 +1,6 @@
+#Time complexity: append, find, remove - O(n)
+#Space complexity: O(n)
+
 class ListNode:
     """
     A node in a singly-linked list.
